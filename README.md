@@ -1,3 +1,3 @@
 # scifair
 
-![image info](./pictures/image.png =250x250)
+![image info](./pictures/image.png | width=100)
