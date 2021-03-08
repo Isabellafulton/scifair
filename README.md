@@ -20,4 +20,20 @@ En México aún no se ha logrado que las mujeres tengan los mismos servicios que
 
 La equidad de género puede variar de país en país, ya que hay diferentes culturas, y diferentes maneras en la que educan a los niños en diferentes lugares alrededor del mundo. A pesar de los esfuerzos realizados en los últimos años en diversos campos, todavía queda un largo camino por recorrer en la sociedad del siglo XXI para lograr la plena igualdad de género. El Foro Económico Mundial ha estado produciendo el Índice Global de Brecha de Género (Índice Global de Brecha de Género) desde 2006, con el objetivo de medir la igualdad de género en 153 países en cuatro áreas clave: salud, educación, economía y política.
 
+ Los países con menor  equidad de género son:
+
+80. Myanmar
+79. Ghana
+78. Irán
+77. Tunisia
+76. Tanzania
+75. Guatemala
+74. Irak
+73. Nigeria
+72. Colombia
+71. Sri. Lanka
+70. Pakistán
+60. México
+
+
 
