@@ -36,8 +36,7 @@ Los países 12  con menor equidad de género son:
 ## Victimas
 En el 2016 a 2018 el 85% de víctimas de asesinatos relacionados a la violencia doméstica fueron mujeres, y el 15% fueron hombres.
 
-Las edades de las víctimas variaron bastante, pero pudimos notar en nuestras investigaciones que las *mujeres de edades no identificadas y  las mujeres de 20 - 29 años eran 22% de las víctimas, 30 - 39 eran 22%, las víctimas de 40 - 49 eran el 22%, las víctimas de 50 - 59 eran el 11%, las víctimas de 60 - 69 eran el 11%, las víctimas de 70 - 79 eran 8%, y mujeres mayores de 80 eran el 8%*
-
+Las edades de las víctimas variaron bastante, pero pudimos notar en nuestras investigaciones que las **mujeres de edades no identificadas y  las mujeres de 20 - 29 años eran 22% de las víctimas, 30 - 39 eran 22%, las víctimas de 40 - 49 eran el 22%, las víctimas de 50 - 59 eran el 11%, las víctimas de 60 - 69 eran el 11%, las víctimas de 70 - 79 eran 8%, y mujeres mayores de 80 eran el 8%**
  Al comparar los salarios de los hombres y las mujeres, pudimos calcular que a las mujeres les pagan de 18% a 24% menos que los hombres. Cuando acumulas todo lo que hacen al año, termina siendo una gran diferencia e injusticia hacia las mujeres.
 
 
